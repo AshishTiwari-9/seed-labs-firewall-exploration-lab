@@ -8,7 +8,7 @@ This repository contains solution to the [Firewall Exploration Lab](https://seed
 - [Instructions for the Lab](https://seedsecuritylabs.org/Labs_20.04/Files/Firewall/Firewall.pdf)
 
 ## Solution
-This lab revolves mostly around Linux iptables and netfilter. Download the [lab setup file] inside the Seed VM and unzip the file. The lab environment is ready and now is a good time to give the instructions a read especially for easily running the containers and some code which is already good to go for a few tasks.
+This lab revolves mostly around Linux iptables and netfilter. Download and unzip the the [LabSetup.zip](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/) file inside the Seed VM. The lab environment is ready and now is a good time to give the instructions a read especially for easily running the containers and some code which is already good to go for a few tasks.
  
 ## Task 1: Implementing a Simple Firewall
 
