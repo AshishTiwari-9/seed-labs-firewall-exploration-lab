@@ -175,7 +175,7 @@ The goal for this task is same as Task 2.C but the only difference is that the f
 
 To accomplish this task, configure the firewall using the following commands:
 ```sh
->> iptables -A FORWARD -i eth0 -p tcp -d 192.168.60.5 --dport 23 --syn -m conntrack --cstate NEW -j ACCEPT 
+>> iptables -A FORWARD -i eth0 -p tcp -d 192.168.60.5 --dport 23 --syn -m conntrack --ctstate NEW -j ACCEPT 
 >> iptables -A FORWARD -i eth1 -p tcp --syn -m conntrack --ctstate NEW -j ACCEPT
 >> iptables -A FORWARD -p tcp -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
 >> iptables -A FORWARD -p tcp -j DROP
