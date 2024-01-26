@@ -1,6 +1,6 @@
 # SeedLabs 2.0 - Firewall Exploration Lab
 
-This repository contains solution to the [Firewall Exploration Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/). This Lab was assigned as a part of the course CS-GY 6823 Network Security by Prof. Mo Satt at New York University.
+This repository contains solution to the [Firewall Exploration Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/Firewall/).
 
 #### Setup and Instructions: 
 - [Cloud/VM Setup Options](https://seedsecuritylabs.org/labsetup.html)
